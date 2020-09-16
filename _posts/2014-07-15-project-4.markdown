@@ -2,10 +2,12 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+title: Buxfer Application
+img: buxfer.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: C
+link: https://github.com/KanwarGill/SimpleBuxfer
+category: C Programming
+description: Created a very light version of Buxfer using pure C. Buxfer is a service that lets groups of people track shared expenses. For example, roommates might want to track shared expenses such as rent, utilities, and groceries, or colleagues might want to keep track of shared lunch bills. For each expense, Buxfer records the person who paid the expense and the expense cost. It allows group members to examine the amount that individuals have paid, look at the history of all transactions, or determine the group member that is currently owing the most.
 ---

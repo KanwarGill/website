@@ -80,6 +80,11 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.img-circular {
+    border-radius:100%;
+    /* border:5px solid #333; */
+}
+
 header {
     text-align: center;
     color: #fff;

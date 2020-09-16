@@ -2,10 +2,12 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+title: Twitter RESTful API
+img: twitter.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Fall 2013
+client: Bootstrap + node.js
+link: https://github.com/KanwarGill/RESTful-API
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Working in a team of 4, we developed a RESTful API capable of reading a JSON file (containing information on Twitter's favorites) deployed at the server and returning information by using a collection of simple HTTP requests. The back-end code was written in node.js. The frontend used Bootstrap.
 ---

@@ -2,10 +2,12 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+title: Operating System - OS161
+img: operating-system.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: Github
+link: https://github.com/KanwarGill/Processes
+category: C Programming
+description: Used a realistic operating system OS/161 (all coded in C) for the following three projects. 1) Extended OS/161's thread system, added the ability to pass command line arguments to user programs on start up, and implemented several system calls allowing for process management. 2) Implemented virtual memory in OS/161 to allow multiple processes to share limited physical memory while providing each process with the abstraction of a large virtual memory. 3) Added support for file system calls that allowed user programs to perform file and file system operations. Also, made the native OS/161 file system more space-efficient.
 ---

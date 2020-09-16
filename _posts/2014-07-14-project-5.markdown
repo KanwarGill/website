@@ -2,10 +2,12 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+title: Simple Search Engine
+img: search-engine.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: C
+link: https://github.com/KanwarGill/SimpleSearchEngine
+category: C Programming
+description: The goal of this project was to write a simple parallel query engine using C. A search engine (like Google) has three main components, a crawler that finds and stores copies of files on the web, an indexer that creates a data structure that is efficient for searching, and a query engine that performs the searches requested by users. The query engine uses the indexes produced by the second component to identify documents that match the search term.
 ---
